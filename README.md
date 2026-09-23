@@ -1,8 +1,8 @@
-## 👋 Isaque Pires
+## Isaque Pires - Estudante de Ciência da Computação
 
 Gosto de mexer com código de baixo nível e automação. Sempre com um terminal aberto por perto.
 
-### 🛠️ Stack
+### My Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
