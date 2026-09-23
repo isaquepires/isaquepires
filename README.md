@@ -2,7 +2,7 @@
 
 Gosto de mexer com código de baixo nível e automação. Sempre com um terminal aberto por perto.
 
-### My Stack
+### Conhecimentos
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -20,3 +20,9 @@ Gosto de mexer com código de baixo nível e automação. Sempre com um terminal
 - **Shell Script** — automação de tarefas simples
 - **Git** — versionamento e controle de código
 - **MySQL** — bancos de dados relacionais
+
+### Projetos
+
+- [Passtell](https://github.com/isaquepires/passtell)
+- [Índice Invertido](https://github.com/isaquepires/indice-invertido)
+- [Projeto Final Hackathon — Engenharia de Software](https://github.com/juliastrobel/Projeto_Final_Hackathon_Engenharia_de_Software) *(em andamento)*
