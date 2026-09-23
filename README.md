@@ -1,6 +1,6 @@
 ## Isaque Pires - Estudante de Ciência da Computação
 
-Gosto de mexer com código de baixo nível e automação. Sempre com um terminal aberto por perto.
+Terminal e mente sempre abertos é meu lema desde que me interessei por tecnologia
 
 ### Conhecimentos
 
