@@ -1,6 +1,6 @@
 ## Isaque Pires - Estudante de Ciência da Computação
 
-Terminal e mente sempre abertos é meu lema desde que me interessei por tecnologia
+"Terminal aberto, mente aberta"
 
 ### Conhecimentos
 
